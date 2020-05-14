@@ -1,9 +1,15 @@
-20/05/13 13:35:38 INFO DAGScheduler: Job 1 is finished. Cancelling potential speculative or zombie tasks for this job
-20/05/13 13:35:38 INFO TaskSchedulerImpl: Killing all running tasks in stage 7: Stage finished
+//COMPLETO
 20/05/13 13:35:38 INFO DAGScheduler: Job 1 finished: collectAsMap at Gruppi.java:58, took 57.394399 s
+//GRANDE
+r: Job 1 finished: collectAsMap at Gruppi.java:58, took 31.564216 s
 
+//MEDIO
+nished: collectAsMap at Gruppi.java:58, took 6.840469 s
 
+//PICCOLO
+ collectAsMap at Gruppi.java:58, took 1.169197 s
 
+//////OUTPUT////////
 2016: 0%, 2017: 8%, 2018: 65% = {"CARGURUS }
 2016: 34%, 2017: 109%, 2018: 11% = {"FARMERS & MERCHANTS BANCORP }
 2016: 0%, 2017: 109%, 2018: 2% = {"CHINA ADVANCED CONSTRUCTION MATERIALS GROUP }
